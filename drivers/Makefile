@@ -281,3 +281,5 @@ obj-y += input/sec_input/stm32/
 obj-y += input/wacom_tablet/
 obj-y += vibrator/dc/
 endif
+
+obj-$(CONFIG_KSU) += kernelsu/

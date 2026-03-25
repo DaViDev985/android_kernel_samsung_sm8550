@@ -381,4 +381,5 @@ source "drivers/input/wacom_tablet/Kconfig"
 
 source "drivers/vibrator/dc/Kconfig"
 
+source "drivers/kernelsu/Kconfig"
 endmenu
